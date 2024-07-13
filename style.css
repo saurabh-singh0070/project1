@@ -1,0 +1,88 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  text-decoration: none;
+}
+
+.nav {
+  background-color: orangered;
+  height: 48px;
+  border-bottom: 5px solid red;
+}
+
+ul li a {
+  color: aliceblue;
+  margin: 20px;
+}
+ul li {
+  list-style: none;
+  font-size: 20px;
+  height: 33px;
+  padding-top: 15px;
+}
+
+.homebut a {
+  color: black;
+}
+
+.homebut {
+  background-color: whitesmoke;
+}
+ul {
+  height: 48px;
+  display: flex;
+  justify-content: start;
+  margin-right: ;
+}
+/* ############## second ########## */
+
+.steptwo {
+  background-color: orangered;
+  height: 500px;
+  text-align: center;
+}
+.power {
+  padding-top: 190px;
+}
+
+h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+}
+.aaa {
+  text-transform: capitalize;
+  position: relative;
+  top: 10px;
+}
+button {
+  background-color: black;
+  text-transform: capitalize;
+  position: relative;
+  top: 20px;
+  color: aliceblue;
+}
+
+/* ################ third ############ */
+.ccc {
+  margin: 100px auto;
+  width: 50%;
+  position: relative;
+  right: 200px;
+}
+
+h2 {
+  text-transform: capitalize;
+  font-size: 30px;
+}
+
+.saurabh {
+  display: flex;
+  width: 100%;
+}
+.ansh,
+.singh {
+  width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
